@@ -10,5 +10,10 @@ public class APITestAutomaiton {
 	{
 		System.out.println("This is for SoapUI Testing");
 	}
+	
+	public void simpleServiceAutomation()
+	{
+		System.out.println("Simple service automation");
+	}
 
 }
