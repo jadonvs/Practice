@@ -15,5 +15,10 @@ public class APITestAutomaiton {
 	{
 		System.out.println("Simple service automation");
 	}
+	
+	public void complexAPITest()
+	{
+		System.out.println("This is to test complex API automation");
+	}
 
 }
